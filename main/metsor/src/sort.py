@@ -1,4 +1,4 @@
-import ast
+import ast_comments as ast
 
 from .database import Database
 
