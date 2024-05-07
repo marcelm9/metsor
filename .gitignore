@@ -3,6 +3,8 @@ docs
 .vscode
 .idea
 
+main/metsor/src/db/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
