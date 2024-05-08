@@ -9,11 +9,11 @@ cd metsor
 pip install .
 ```
 
-### example
+### commands
 ```bash
-# sort methods of all classes in some_file.py
-python -m metsor sort some_file.py
+# sort methods of all classes
+python -m metsor sort <filepath>
 
 # undo changes
-python -m metsor undo some_file.py
+python -m metsor undo <filepath>
 ```
